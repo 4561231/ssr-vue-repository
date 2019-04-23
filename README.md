@@ -1,2 +1,1 @@
-# ssr-vue-repository
-ssr
+# ssr-vue
